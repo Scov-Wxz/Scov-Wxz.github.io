@@ -592,5 +592,11 @@
     "NAME": "哈利·波特与火焰杯",
     "TYPE": "Film",
     "RATE": "3"
+  },
+  {
+    "TIME": "2024.09.20-00:39",
+    "NAME": "Persona 5 Royal",
+    "TYPE": "Game",
+    "RATE": "3"
   }
 ]
