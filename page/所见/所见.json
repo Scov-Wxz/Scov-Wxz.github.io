@@ -1,602 +1,628 @@
-[
-  {
-    "TIME": "2023.07.21-01:33",
-    "NAME": "Butterfly Effect",
-    "TYPE": "Film",
-    "RATE": "4"
-  },
-  {
-    "TIME": "2023.07.22-23:33",
-    "NAME": "Batman Begins",
-    "TYPE": "Film",
-    "RATE": "3"
-  },
-  {
-    "TIME": "2023.07.28-10:30",
-    "NAME": "The Dark Knight",
-    "TYPE": "Film",
-    "RATE": "5"
-  },
-  {
-    "TIME": "2023.08.04-13:55",
-    "NAME": "生徒会の一存",
-    "TYPE": "Anime",
-    "RATE": "3"
-  },
-  {
-    "TIME": "2023.08.12-23:58",
-    "NAME": "すずめの戸締まり",
-    "TYPE": "Film",
-    "RATE": "2.5"
-  },
-  {
-    "TIME": "2023.08.14-11:15",
-    "NAME": "男子高校生の日常",
-    "TYPE": "Anime",
-    "RATE": "4.5"
-  },
-  {
-    "TIME": "2023.08.14-21:47",
-    "NAME": "Dunkirk",
-    "TYPE": "Film",
-    "RATE": "3"
-  },
-  {
-    "TIME": "2023.08.21-23:44",
-    "NAME": "The Dark Knight Rises",
-    "TYPE": "Film",
-    "RATE": "4"
-  },
-  {
-    "TIME": "2023.08.26-22:05",
-    "NAME": "The Joker",
-    "TYPE": "Comic",
-    "RATE": "2"
-  },
-  {
-    "TIME": "2023.08.27-22:35",
-    "NAME": "Joker",
-    "TYPE": "Film",
-    "RATE": "3"
-  },
-  {
-    "TIME": "2023.08.29-23:14",
-    "NAME": "Following",
-    "TYPE": "Film",
-    "RATE": "3.5"
-  },
-  {
-    "TIME": "2023.08.31-22:47",
-    "NAME": "Spider-Man",
-    "TYPE": "Film",
-    "RATE": "4"
-  },
-  {
-    "TIME": "2023.09.05-16:55",
-    "NAME": "Oppenheimer",
-    "TYPE": "Film",
-    "RATE": "4.5"
-  },
-  {
-    "TIME": "2023.10.04-19:56",
-    "NAME": "Spider-Man 2",
-    "TYPE": "Film",
-    "RATE": "4"
-  },
-  {
-    "TIME": "2023.10.06-19:45",
-    "NAME": "Fate/Zero",
-    "TYPE": "Anime",
-    "RATE": "5"
-  },
-  {
-    "TIME": "2023.10.08-20:52",
-    "NAME": "生徒会の一存 Lv.2",
-    "TYPE": "Anime",
-    "RATE": "2.5"
-  },
-  {
-    "TIME": "2023.10.17-20:41",
-    "NAME": "The Room",
-    "TYPE": "Game",
-    "RATE": "3"
-  },
-  {
-    "TIME": "2023.10.22-23:15",
-    "NAME": "Spider-Man 3",
-    "TYPE": "Film",
-    "RATE": "4"
-  },
-  {
-    "TIME": "2023.10.24-19:48",
-    "NAME": "Chernobyl",
-    "TYPE": "Teleplay",
-    "RATE": "4"
-  },
-  {
-    "TIME": "2023.10.25-19:27",
-    "NAME": "东京喰种",
-    "TYPE": "Comic",
-    "RATE": "4.5"
-  },
-  {
-    "TIME": "2023.10.30-17:58",
-    "NAME": "东京喰种:re",
-    "TYPE": "Comic",
-    "RATE": "4.5"
-  },
-  {
-    "TIME": "2023.11.05-13:07",
-    "NAME": "進撃の巨人",
-    "TYPE": "Anime",
-    "RATE": "5"
-  },
-  {
-    "TIME": "2023.11.07-12:40",
-    "NAME": "颠倒的帕特玛",
-    "TYPE": "Film",
-    "RATE": "3"
-  },
-  {
-    "TIME": "2023.11.08-15:13",
-    "NAME": "The Amazing Spider-Man",
-    "TYPE": "Film",
-    "RATE": "3"
-  },
-  {
-    "TIME": "2023.11.13-18:49",
-    "NAME": "The Amazing Spider-Man 2",
-    "TYPE": "Film",
-    "RATE": "3"
-  },
-  {
-    "TIME": "2023.11.16-10:04",
-    "NAME": "공작",
-    "TYPE": "Film",
-    "RATE": "3"
-  },
-  {
-    "TIME": "2023.11.20-18:15",
-    "NAME": "霸王别姬",
-    "TYPE": "Film",
-    "RATE": "4.5"
-  },
-  {
-    "TIME": "2023.11.30-01:20",
-    "NAME": "Stranger Things Season 3",
-    "TYPE": "Teleplay",
-    "RATE": "2.5"
-  },
-  {
-    "TIME": "2023.12.04-22:05",
-    "NAME": "Stranger Things Season 4",
-    "TYPE": "Teleplay",
-    "RATE": "2.5"
-  },
-  {
-    "TIME": "2023.12.07-11:48",
-    "NAME": "Love, Death & Robots Season 1",
-    "TYPE": "Teleplay",
-    "RATE": "4.5"
-  },
-  {
-    "TIME": "2023.12.09-23:27",
-    "NAME": "Assemble with Care",
-    "TYPE": "Game",
-    "RATE": "2.5"
-  },
-  {
-    "TIME": "2023.12.13-22:56",
-    "NAME": "Love, Death & Robots Season 2",
-    "TYPE": "Teleplay",
-    "RATE": "3"
-  },
-  {
-    "TIME": "2023.12.15-13:34",
-    "NAME": "大乘期才有逆袭系统",
-    "TYPE": "Novel",
-    "RATE": "3.5"
-  },
-  {
-    "TIME": "2023.12.17-22:45",
-    "NAME": "Vampire Survivors - 吸血鬼幸存者",
-    "TYPE": "Game",
-    "RATE": "3.5"
-  },
-  {
-    "TIME": "2023.12.23-14:58",
-    "NAME": "Love, Death & Robots Season 3",
-    "TYPE": "Teleplay",
-    "RATE": "3.5"
-  },
-  {
-    "TIME": "2023.12.26-22:57",
-    "NAME": "SPY×FAMILY Season 2",
-    "TYPE": "Anime",
-    "RATE": "3.5"
-  },
-  {
-    "TIME": "2023.12.27-12:20",
-    "NAME": "夏へのトンネル、さよならの出口",
-    "TYPE": "Novel",
-    "RATE": "3"
-  },
-  {
-    "TIME": "2024.01.13-00:24",
-    "NAME": "Scavengers Reign",
-    "TYPE": "Anime",
-    "RATE": "4"
-  },
-  {
-    "TIME": "2024.01.24-16:01",
-    "NAME": "Pantheon Season 1",
-    "TYPE": "Anime",
-    "RATE": "3.5"
-  },
-  {
-    "TIME": "2024.01.26-17:47",
-    "NAME": "Pantheon Season 2",
-    "TYPE": "Anime",
-    "RATE": "3"
-  },
-  {
-    "TIME": "2024.02.02-19:36",
-    "NAME": "となりの怪物くん",
-    "TYPE": "Anime",
-    "RATE": "4"
-  },
-  {
-    "TIME": "2024.02.08-23:10",
-    "NAME": "Lord of War",
-    "TYPE": "Film",
-    "RATE": "3"
-  },
-  {
-    "TIME": "2024.02.10-22:44",
-    "NAME": "Perfect Blue",
-    "TYPE": "Film",
-    "RATE": "4.5"
-  },
-  {
-    "TIME": "2024.02.21-19:55",
-    "NAME": "虚拟桌宠模拟器",
-    "TYPE": "Game",
-    "RATE": "2.5"
-  },
-  {
-    "TIME": "2024.02.24-20:46",
-    "NAME": "Catch Me If You Can",
-    "TYPE": "Film",
-    "RATE": "3"
-  },
-  {
-    "TIME": "2024.03.02-21:17",
-    "NAME": "直言怪話 移山志",
-    "TYPE": "Novel",
-    "RATE": "3"
-  },
-  {
-    "TIME": "2024.03.11-01:40",
-    "NAME": "周处除三害",
-    "TYPE": "Film",
-    "RATE": "3.5"
-  },
-  {
-    "TIME": "2024.03.14-21:23",
-    "NAME": "鬼子来了",
-    "TYPE": "Film",
-    "RATE": "3"
-  },
-  {
-    "TIME": "2024.03.19-15:43",
-    "NAME": "Iron Man",
-    "TYPE": "Film",
-    "RATE": "3.5"
-  },
-  {
-    "TIME": "2024.03.21-13:15",
-    "NAME": "Underground Blossom",
-    "TYPE": "Game",
-    "RATE": "3"
-  },
-  {
-    "TIME": "2024.03.23-19:00",
-    "NAME": "BanG Dream! Its MyGO!!!!!",
-    "TYPE": "Anime",
-    "RATE": "3.5"
-  },
-  {
-    "TIME": "2024.03.24-11:55",
-    "NAME": "葬送のフリーレン",
-    "TYPE": "Anime",
-    "RATE": "5"
-  },
-  {
-    "TIME": "2024.03.24-15:57",
-    "NAME": "薬屋のひとりごと",
-    "TYPE": "Anime",
-    "RATE": "4"
-  },
-  {
-    "TIME": "2024.03.27-20:48",
-    "NAME": "けいおん！",
-    "TYPE": "Anime",
-    "RATE": "4.5"
-  },
-  {
-    "TIME": "2024.03.31-13:50",
-    "NAME": "魔法少女にあこがれて",
-    "TYPE": "Anime",
-    "RATE": "3.5"
-  },
-  {
-    "TIME": "2024.05.02-13:30",
-    "NAME": "けいおん！！",
-    "TYPE": "Anime",
-    "RATE": "4"
-  },
-  {
-    "TIME": "2024.05.03-19:27",
-    "NAME": "NARUTO -ナルト-",
-    "TYPE": "Anime",
-    "RATE": "5"
-  },
-  {
-    "TIME": "2024.05.04-22:08",
-    "NAME": "映画けいおん！",
-    "TYPE": "Film",
-    "RATE": "4.5"
-  },
-  {
-    "TIME": "2024.05.21-23:44",
-    "NAME": "僕だけがいない街",
-    "TYPE": "Anime",
-    "RATE": "4"
-  },
-  {
-    "TIME": "2024.05.22-12:15",
-    "NAME": "涼宮春日的嘆息",
-    "TYPE": "Novel",
-    "RATE": "3"
-  },
-  {
-    "TIME": "2024.05.24-22:10",
-    "NAME": "Sonny Boy",
-    "TYPE": "Anime",
-    "RATE": "4.5"
-  },
-  {
-    "TIME": "2024.05.30-12:22",
-    "NAME": "Fooly Cooly",
-    "TYPE": "Anime",
-    "RATE": "3.5"
-  },
-  {
-    "TIME": "2024.05.31-00:43",
-    "NAME": "Solar Opposites Season 1",
-    "TYPE": "Anime",
-    "RATE": "4"
-  },
-  {
-    "TIME": "2024.05.31-23:33",
-    "NAME": "Solar Opposites Season 2",
-    "TYPE": "Anime",
-    "RATE": "3.5"
-  },
-  {
-    "TIME": "2024.06.02-03:40",
-    "NAME": "青春豬頭少年不會夢到兔女郎學姊",
-    "TYPE": "Novel",
-    "RATE": "4"
-  },
-  {
-    "TIME": "2024.06.04-00:05",
-    "NAME": "Solar Opposites Season 3",
-    "TYPE": "Anime",
-    "RATE": "3.5"
-  },
-  {
-    "TIME": "2024.06.05-00:10",
-    "NAME": "青春豬頭少年不會夢到小惡魔學妹",
-    "TYPE": "Novel",
-    "RATE": "4"
-  },
-  {
-    "TIME": "2024.06.11-02:28",
-    "NAME": "青春豬頭少年不會夢到理性小魔女",
-    "TYPE": "Novel",
-    "RATE": "4"
-  },
-  {
-    "TIME": "2024.06.15-01:38",
-    "NAME": "Solar Opposites Season 4",
-    "TYPE": "Anime",
-    "RATE": "3.5"
-  },
-  {
-    "TIME": "2024.06.15-00:28",
-    "NAME": "青春豬頭少年不會夢到戀姊俏偶像",
-    "TYPE": "Novel",
-    "RATE": "4"
-  },
-  {
-    "TIME": "2024.06.17-18:40",
-    "NAME": "青春豬頭少年不會夢到嬌憐看家妹",
-    "TYPE": "Novel",
-    "RATE": "4"
-  },
-  {
-    "TIME": "2024.06.19-03:07",
-    "NAME": "青春豬頭少年不會夢到懷夢美少女",
-    "TYPE": "Novel",
-    "RATE": "4.5"
-  },
-  {
-    "TIME": "2024.06.20-03:50",
-    "NAME": "青春豬頭少年不會夢到初戀美少女",
-    "TYPE": "Novel",
-    "RATE": "4"
-  },
-  {
-    "TIME": "2024.06.22-23:05",
-    "NAME": "化物语",
-    "TYPE": "Anime",
-    "RATE": "4.5"
-  },
-  {
-    "TIME": "2024.06.24-10:26",
-    "NAME": "伪物语",
-    "TYPE": "Anime",
-    "RATE": "4"
-  },
-  {
-    "TIME": "2024.06.24-16:52",
-    "NAME": "迷宫饭",
-    "TYPE": "Anime",
-    "RATE": "3"
-  },
-  {
-    "TIME": "2024.06.25-12:35",
-    "NAME": "猫物语(黑)",
-    "TYPE": "Anime",
-    "RATE": "3.5"
-  },
-  {
-    "TIME": "2024.06.26-02:48",
-    "NAME": "猫物语(白)",
-    "TYPE": "Anime",
-    "RATE": "3.5"
-  },
-  {
-    "TIME": "2024.06.26-17:00",
-    "NAME": "倾物语",
-    "TYPE": "Anime",
-    "RATE": "4"
-  },
-  {
-    "TIME": "2024.06.26-23:47",
-    "NAME": "囮物语",
-    "TYPE": "Anime",
-    "RATE": "3.5"
-  },
-  {
-    "TIME": "2024.06.28-01:37",
-    "NAME": "鬼物语",
-    "TYPE": "Anime",
-    "RATE": "3.5"
-  },
-  {
-    "TIME": "2024.06.28-15:58",
-    "NAME": "恋物语",
-    "TYPE": "Anime",
-    "RATE": "4"
-  },
-  {
-    "TIME": "2024.07.03-02:32",
-    "NAME": "花物语",
-    "TYPE": "Anime",
-    "RATE": "3.5"
-  },
-  {
-    "TIME": "2024.07.10-11:20",
-    "NAME": "凭物语",
-    "TYPE": "Anime",
-    "RATE": "3.5"
-  },
-  {
-    "TIME": "2024.07.27-17:05",
-    "NAME": "伤物语1: 铁血篇",
-    "TYPE": "Anime",
-    "RATE": "3.5"
-  },
-  {
-    "TIME": "2024.07.28-13:30",
-    "NAME": "伤物语2: 热血篇",
-    "TYPE": "Anime",
-    "RATE": "3.5"
-  },
-  {
-    "TIME": "2024.07.28-20:01",
-    "NAME": "伤物语3: 冷血篇",
-    "TYPE": "Anime",
-    "RATE": "3.5"
-  },
-  {
-    "TIME": "2024.08.04-23:48",
-    "NAME": "历物语",
-    "TYPE": "Anime",
-    "RATE": "3.5"
-  },
-  {
-    "TIME": "2024.08.06-21:37",
-    "NAME": "终物语 下",
-    "TYPE": "Anime",
-    "RATE": "3.5"
-  },
-  {
-    "TIME": "2024.08.08-00:07",
-    "NAME": "续·终物语",
-    "TYPE": "Anime",
-    "RATE": "5"
-  },
-  {
-    "TIME": "2024.08.18-11:57",
-    "NAME": "为美好的世界献上祝福！",
-    "TYPE": "Anime",
-    "RATE": "3.5"
-  },
-  {
-    "TIME": "2024.08.22-19:30",
-    "NAME": "鬼灭之刃 柱训练篇",
-    "TYPE": "Anime",
-    "RATE": "2"
-  },
-  {
-    "TIME": "2024.08.25-20:42",
-    "NAME": "为美好的世界献上祝福！第二季",
-    "TYPE": "Anime",
-    "RATE": "3.5"
-  },
-  {
-    "TIME": "2024.08.31-11:04",
-    "NAME": "为美好的世界献上祝福！第三季",
-    "TYPE": "Anime",
-    "RATE": "3.5"
-  },
-  {
-    "TIME": "2024.09.01-20:05",
-    "NAME": "哈利·波特与魔法石",
-    "TYPE": "Film",
-    "RATE": "2.5"
-  },
-  {
-    "TIME": "2024.09.02-22:47",
-    "NAME": "哈利·波特与密室",
-    "TYPE": "Film",
-    "RATE": "2.5"
-  },
-  {
-    "TIME": "2024.09.05-01:37",
-    "NAME": "凭物语副音轨",
-    "TYPE": "Film",
-    "RATE": "3"
-  },
-  {
-    "TIME": "2024.09.07-19:29",
-    "NAME": "哈利·波特与阿兹卡班的囚徒",
-    "TYPE": "Film",
-    "RATE": "2.5"
-  },
-  {
-    "TIME": "2024.09.09-23:45",
-    "NAME": "哈利·波特与火焰杯",
-    "TYPE": "Film",
-    "RATE": "3"
-  },
-  {
-    "TIME": "2024.09.20-00:39",
-    "NAME": "Persona 5 Royal",
-    "TYPE": "Game",
-    "RATE": "3"
-  }
-]
+{
+  "Anime": [
+    {
+      "NAME": "DEATH NOTE",
+      "RATE": "4.5",
+      "TIME": "2024.09.25-21:52",
+      "TYPE": "Anime"
+    },
+    {
+      "NAME": "凭物语副音轨",
+      "RATE": "3",
+      "TIME": "2024.09.05-01:37",
+      "TYPE": "Anime"
+    },
+    {
+      "NAME": "为美好的世界献上祝福！第三季",
+      "RATE": "3.5",
+      "TIME": "2024.08.31-11:04",
+      "TYPE": "Anime"
+    },
+    {
+      "NAME": "为美好的世界献上祝福！第二季",
+      "RATE": "3.5",
+      "TIME": "2024.08.25-20:42",
+      "TYPE": "Anime"
+    },
+    {
+      "NAME": "鬼灭之刃 柱训练篇",
+      "RATE": "2",
+      "TIME": "2024.08.22-19:30",
+      "TYPE": "Anime"
+    },
+    {
+      "NAME": "为美好的世界献上祝福！",
+      "RATE": "3.5",
+      "TIME": "2024.08.18-11:57",
+      "TYPE": "Anime"
+    },
+    {
+      "NAME": "续·终物语",
+      "RATE": "5",
+      "TIME": "2024.08.08-00:07",
+      "TYPE": "Anime"
+    },
+    {
+      "NAME": "终物语 下",
+      "RATE": "3.5",
+      "TIME": "2024.08.06-21:37",
+      "TYPE": "Anime"
+    },
+    {
+      "NAME": "历物语",
+      "RATE": "3.5",
+      "TIME": "2024.08.04-23:48",
+      "TYPE": "Anime"
+    },
+    {
+      "NAME": "伤物语3: 冷血篇",
+      "RATE": "3.5",
+      "TIME": "2024.07.28-20:01",
+      "TYPE": "Anime"
+    },
+    {
+      "NAME": "伤物语2: 热血篇",
+      "RATE": "3.5",
+      "TIME": "2024.07.28-13:30",
+      "TYPE": "Anime"
+    },
+    {
+      "NAME": "伤物语1: 铁血篇",
+      "RATE": "3.5",
+      "TIME": "2024.07.27-17:05",
+      "TYPE": "Anime"
+    },
+    {
+      "NAME": "凭物语",
+      "RATE": "3.5",
+      "TIME": "2024.07.10-11:20",
+      "TYPE": "Anime"
+    },
+    {
+      "NAME": "花物语",
+      "RATE": "3.5",
+      "TIME": "2024.07.03-02:32",
+      "TYPE": "Anime"
+    },
+    {
+      "NAME": "恋物语",
+      "RATE": "4",
+      "TIME": "2024.06.28-15:58",
+      "TYPE": "Anime"
+    },
+    {
+      "NAME": "鬼物语",
+      "RATE": "3.5",
+      "TIME": "2024.06.28-01:37",
+      "TYPE": "Anime"
+    },
+    {
+      "NAME": "囮物语",
+      "RATE": "3.5",
+      "TIME": "2024.06.26-23:47",
+      "TYPE": "Anime"
+    },
+    {
+      "NAME": "倾物语",
+      "RATE": "4",
+      "TIME": "2024.06.26-17:00",
+      "TYPE": "Anime"
+    },
+    {
+      "NAME": "猫物语(白)",
+      "RATE": "3.5",
+      "TIME": "2024.06.26-02:48",
+      "TYPE": "Anime"
+    },
+    {
+      "NAME": "猫物语(黑)",
+      "RATE": "3.5",
+      "TIME": "2024.06.25-12:35",
+      "TYPE": "Anime"
+    },
+    {
+      "NAME": "迷宫饭",
+      "RATE": "3",
+      "TIME": "2024.06.24-16:52",
+      "TYPE": "Anime"
+    },
+    {
+      "NAME": "伪物语",
+      "RATE": "4",
+      "TIME": "2024.06.24-10:26",
+      "TYPE": "Anime"
+    },
+    {
+      "NAME": "化物语",
+      "RATE": "4.5",
+      "TIME": "2024.06.22-23:05",
+      "TYPE": "Anime"
+    },
+    {
+      "NAME": "Solar Opposites Season 4",
+      "RATE": "3.5",
+      "TIME": "2024.06.15-01:38",
+      "TYPE": "Anime"
+    },
+    {
+      "NAME": "Solar Opposites Season 3",
+      "RATE": "3.5",
+      "TIME": "2024.06.04-00:05",
+      "TYPE": "Anime"
+    },
+    {
+      "NAME": "Solar Opposites Season 2",
+      "RATE": "3.5",
+      "TIME": "2024.05.31-23:33",
+      "TYPE": "Anime"
+    },
+    {
+      "NAME": "Solar Opposites Season 1",
+      "RATE": "4",
+      "TIME": "2024.05.31-00:43",
+      "TYPE": "Anime"
+    },
+    {
+      "NAME": "Fooly Cooly",
+      "RATE": "3.5",
+      "TIME": "2024.05.30-12:22",
+      "TYPE": "Anime"
+    },
+    {
+      "NAME": "Sonny Boy",
+      "RATE": "4.5",
+      "TIME": "2024.05.24-22:10",
+      "TYPE": "Anime"
+    },
+    {
+      "NAME": "僕だけがいない街",
+      "RATE": "4",
+      "TIME": "2024.05.21-23:44",
+      "TYPE": "Anime"
+    },
+    {
+      "NAME": "NARUTO -ナルト-",
+      "RATE": "5",
+      "TIME": "2024.05.03-19:27",
+      "TYPE": "Anime"
+    },
+    {
+      "NAME": "けいおん！！",
+      "RATE": "4",
+      "TIME": "2024.05.02-13:30",
+      "TYPE": "Anime"
+    },
+    {
+      "NAME": "魔法少女にあこがれて",
+      "RATE": "3.5",
+      "TIME": "2024.03.31-13:50",
+      "TYPE": "Anime"
+    },
+    {
+      "NAME": "けいおん！",
+      "RATE": "4.5",
+      "TIME": "2024.03.27-20:48",
+      "TYPE": "Anime"
+    },
+    {
+      "NAME": "薬屋のひとりごと",
+      "RATE": "4",
+      "TIME": "2024.03.24-15:57",
+      "TYPE": "Anime"
+    },
+    {
+      "NAME": "葬送のフリーレン",
+      "RATE": "5",
+      "TIME": "2024.03.24-11:55",
+      "TYPE": "Anime"
+    },
+    {
+      "NAME": "BanG Dream! Its MyGO!!!!!",
+      "RATE": "3.5",
+      "TIME": "2024.03.23-19:00",
+      "TYPE": "Anime"
+    },
+    {
+      "NAME": "となりの怪物くん",
+      "RATE": "4",
+      "TIME": "2024.02.02-19:36",
+      "TYPE": "Anime"
+    },
+    {
+      "NAME": "Pantheon Season 2",
+      "RATE": "3",
+      "TIME": "2024.01.26-17:47",
+      "TYPE": "Anime"
+    },
+    {
+      "NAME": "Pantheon Season 1",
+      "RATE": "3.5",
+      "TIME": "2024.01.24-16:01",
+      "TYPE": "Anime"
+    },
+    {
+      "NAME": "Scavengers Reign",
+      "RATE": "4",
+      "TIME": "2024.01.13-00:24",
+      "TYPE": "Anime"
+    },
+    {
+      "NAME": "SPY×FAMILY Season 2",
+      "RATE": "3.5",
+      "TIME": "2023.12.26-22:57",
+      "TYPE": "Anime"
+    },
+    {
+      "NAME": "進撃の巨人",
+      "RATE": "5",
+      "TIME": "2023.11.05-13:07",
+      "TYPE": "Anime"
+    },
+    {
+      "NAME": "生徒会の一存 Lv.2",
+      "RATE": "2.5",
+      "TIME": "2023.10.08-20:52",
+      "TYPE": "Anime"
+    },
+    {
+      "NAME": "Fate/Zero",
+      "RATE": "5",
+      "TIME": "2023.10.06-19:45",
+      "TYPE": "Anime"
+    },
+    {
+      "NAME": "男子高校生の日常",
+      "RATE": "4.5",
+      "TIME": "2023.08.14-11:15",
+      "TYPE": "Anime"
+    },
+    {
+      "NAME": "生徒会の一存",
+      "RATE": "3",
+      "TIME": "2023.08.04-13:55",
+      "TYPE": "Anime"
+    }
+  ],
+  "Beverage": [
+    {
+      "NAME": "芬达[苹果味汽水](冰)",
+      "RATE": "3.5",
+      "TIME": "2024.09.29-14:15",
+      "TYPE": "Beverage"
+    }
+  ],
+  "Comic": [
+    {
+      "NAME": "东京喰种:re",
+      "RATE": "4.5",
+      "TIME": "2023.10.30-17:58",
+      "TYPE": "Comic"
+    },
+    {
+      "NAME": "东京喰种",
+      "RATE": "4.5",
+      "TIME": "2023.10.25-19:27",
+      "TYPE": "Comic"
+    },
+    {
+      "NAME": "The Joker",
+      "RATE": "2",
+      "TIME": "2023.08.26-22:05",
+      "TYPE": "Comic"
+    }
+  ],
+  "Film": [
+    {
+      "NAME": "哈利·波特与火焰杯",
+      "RATE": "3",
+      "TIME": "2024.09.09-23:45",
+      "TYPE": "Film"
+    },
+    {
+      "NAME": "哈利·波特与阿兹卡班的囚徒",
+      "RATE": "2.5",
+      "TIME": "2024.09.07-19:29",
+      "TYPE": "Film"
+    },
+    {
+      "NAME": "哈利·波特与密室",
+      "RATE": "2.5",
+      "TIME": "2024.09.02-22:47",
+      "TYPE": "Film"
+    },
+    {
+      "NAME": "哈利·波特与魔法石",
+      "RATE": "2.5",
+      "TIME": "2024.09.01-20:05",
+      "TYPE": "Film"
+    },
+    {
+      "NAME": "映画けいおん！",
+      "RATE": "4.5",
+      "TIME": "2024.05.04-22:08",
+      "TYPE": "Film"
+    },
+    {
+      "NAME": "Iron Man",
+      "RATE": "3.5",
+      "TIME": "2024.03.19-15:43",
+      "TYPE": "Film"
+    },
+    {
+      "NAME": "鬼子来了",
+      "RATE": "3",
+      "TIME": "2024.03.14-21:23",
+      "TYPE": "Film"
+    },
+    {
+      "NAME": "周处除三害",
+      "RATE": "3.5",
+      "TIME": "2024.03.11-01:40",
+      "TYPE": "Film"
+    },
+    {
+      "NAME": "Catch Me If You Can",
+      "RATE": "3",
+      "TIME": "2024.02.24-20:46",
+      "TYPE": "Film"
+    },
+    {
+      "NAME": "Perfect Blue",
+      "RATE": "4.5",
+      "TIME": "2024.02.10-22:44",
+      "TYPE": "Film"
+    },
+    {
+      "NAME": "Lord of War",
+      "RATE": "3",
+      "TIME": "2024.02.08-23:10",
+      "TYPE": "Film"
+    },
+    {
+      "NAME": "霸王别姬",
+      "RATE": "4.5",
+      "TIME": "2023.11.20-18:15",
+      "TYPE": "Film"
+    },
+    {
+      "NAME": "공작",
+      "RATE": "3",
+      "TIME": "2023.11.16-10:04",
+      "TYPE": "Film"
+    },
+    {
+      "NAME": "The Amazing Spider-Man 2",
+      "RATE": "3",
+      "TIME": "2023.11.13-18:49",
+      "TYPE": "Film"
+    },
+    {
+      "NAME": "The Amazing Spider-Man",
+      "RATE": "3",
+      "TIME": "2023.11.08-15:13",
+      "TYPE": "Film"
+    },
+    {
+      "NAME": "颠倒的帕特玛",
+      "RATE": "3",
+      "TIME": "2023.11.07-12:40",
+      "TYPE": "Film"
+    },
+    {
+      "NAME": "Spider-Man 3",
+      "RATE": "4",
+      "TIME": "2023.10.22-23:15",
+      "TYPE": "Film"
+    },
+    {
+      "NAME": "Spider-Man 2",
+      "RATE": "4",
+      "TIME": "2023.10.04-19:56",
+      "TYPE": "Film"
+    },
+    {
+      "NAME": "Oppenheimer",
+      "RATE": "4.5",
+      "TIME": "2023.09.05-16:55",
+      "TYPE": "Film"
+    },
+    {
+      "NAME": "Spider-Man",
+      "RATE": "4",
+      "TIME": "2023.08.31-22:47",
+      "TYPE": "Film"
+    },
+    {
+      "NAME": "Following",
+      "RATE": "3.5",
+      "TIME": "2023.08.29-23:14",
+      "TYPE": "Film"
+    },
+    {
+      "NAME": "Joker",
+      "RATE": "3",
+      "TIME": "2023.08.27-22:35",
+      "TYPE": "Film"
+    },
+    {
+      "NAME": "The Dark Knight Rises",
+      "RATE": "4",
+      "TIME": "2023.08.21-23:44",
+      "TYPE": "Film"
+    },
+    {
+      "NAME": "Dunkirk",
+      "RATE": "3",
+      "TIME": "2023.08.14-21:47",
+      "TYPE": "Film"
+    },
+    {
+      "NAME": "すずめの戸締まり",
+      "RATE": "2.5",
+      "TIME": "2023.08.12-23:58",
+      "TYPE": "Film"
+    },
+    {
+      "NAME": "The Dark Knight",
+      "RATE": "5",
+      "TIME": "2023.07.28-10:30",
+      "TYPE": "Film"
+    },
+    {
+      "NAME": "Batman Begins",
+      "RATE": "3",
+      "TIME": "2023.07.22-23:33",
+      "TYPE": "Film"
+    },
+    {
+      "NAME": "Butterfly Effect",
+      "RATE": "4",
+      "TIME": "2023.07.21-01:33",
+      "TYPE": "Film"
+    }
+  ],
+  "Game": [
+    {
+      "NAME": "Persona 5 Royal",
+      "RATE": "3",
+      "TIME": "2024.09.20-00:39",
+      "TYPE": "Game"
+    },
+    {
+      "NAME": "Underground Blossom",
+      "RATE": "3",
+      "TIME": "2024.03.21-13:15",
+      "TYPE": "Game"
+    },
+    {
+      "NAME": "虚拟桌宠模拟器",
+      "RATE": "2.5",
+      "TIME": "2024.02.21-19:55",
+      "TYPE": "Game"
+    },
+    {
+      "NAME": "Vampire Survivors - 吸血鬼幸存者",
+      "RATE": "3.5",
+      "TIME": "2023.12.17-22:45",
+      "TYPE": "Game"
+    },
+    {
+      "NAME": "Assemble with Care",
+      "RATE": "2.5",
+      "TIME": "2023.12.09-23:27",
+      "TYPE": "Game"
+    },
+    {
+      "NAME": "The Room",
+      "RATE": "3",
+      "TIME": "2023.10.17-20:41",
+      "TYPE": "Game"
+    }
+  ],
+  "Novel": [
+    {
+      "NAME": "青春豬頭少年不會夢到初戀美少女",
+      "RATE": "4",
+      "TIME": "2024.06.20-03:50",
+      "TYPE": "Novel"
+    },
+    {
+      "NAME": "青春豬頭少年不會夢到懷夢美少女",
+      "RATE": "4.5",
+      "TIME": "2024.06.19-03:07",
+      "TYPE": "Novel"
+    },
+    {
+      "NAME": "青春豬頭少年不會夢到嬌憐看家妹",
+      "RATE": "4",
+      "TIME": "2024.06.17-18:40",
+      "TYPE": "Novel"
+    },
+    {
+      "NAME": "青春豬頭少年不會夢到戀姊俏偶像",
+      "RATE": "4",
+      "TIME": "2024.06.15-00:28",
+      "TYPE": "Novel"
+    },
+    {
+      "NAME": "青春豬頭少年不會夢到理性小魔女",
+      "RATE": "4",
+      "TIME": "2024.06.11-02:28",
+      "TYPE": "Novel"
+    },
+    {
+      "NAME": "青春豬頭少年不會夢到小惡魔學妹",
+      "RATE": "4",
+      "TIME": "2024.06.05-00:10",
+      "TYPE": "Novel"
+    },
+    {
+      "NAME": "青春豬頭少年不會夢到兔女郎學姊",
+      "RATE": "4",
+      "TIME": "2024.06.02-03:40",
+      "TYPE": "Novel"
+    },
+    {
+      "NAME": "涼宮春日的嘆息",
+      "RATE": "3",
+      "TIME": "2024.05.22-12:15",
+      "TYPE": "Novel"
+    },
+    {
+      "NAME": "直言怪話 移山志",
+      "RATE": "3",
+      "TIME": "2024.03.02-21:17",
+      "TYPE": "Novel"
+    },
+    {
+      "NAME": "夏へのトンネル、さよならの出口",
+      "RATE": "3",
+      "TIME": "2023.12.27-12:20",
+      "TYPE": "Novel"
+    },
+    {
+      "NAME": "大乘期才有逆袭系统",
+      "RATE": "3.5",
+      "TIME": "2023.12.15-13:34",
+      "TYPE": "Novel"
+    }
+  ],
+  "Teleplay": [
+    {
+      "NAME": "Love, Death & Robots Season 3",
+      "RATE": "3.5",
+      "TIME": "2023.12.23-14:58",
+      "TYPE": "Teleplay"
+    },
+    {
+      "NAME": "Love, Death & Robots Season 2",
+      "RATE": "3",
+      "TIME": "2023.12.13-22:56",
+      "TYPE": "Teleplay"
+    },
+    {
+      "NAME": "Love, Death & Robots Season 1",
+      "RATE": "4.5",
+      "TIME": "2023.12.07-11:48",
+      "TYPE": "Teleplay"
+    },
+    {
+      "NAME": "Stranger Things Season 4",
+      "RATE": "2.5",
+      "TIME": "2023.12.04-22:05",
+      "TYPE": "Teleplay"
+    },
+    {
+      "NAME": "Stranger Things Season 3",
+      "RATE": "2.5",
+      "TIME": "2023.11.30-01:20",
+      "TYPE": "Teleplay"
+    },
+    {
+      "NAME": "Chernobyl",
+      "RATE": "4",
+      "TIME": "2023.10.24-19:48",
+      "TYPE": "Teleplay"
+    }
+  ]
+}
