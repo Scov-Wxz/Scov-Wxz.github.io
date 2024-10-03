@@ -4,9 +4,9 @@ from datetime import datetime
 
 # 新条目
 new_entry = {
-    "NAME": "111DEATH NOTE111",
-    "RATE": "4.5",
-    "TIME": "2024.10.25-21:52",
+    "NAME": "败犬女主太多了！",
+    "RATE": "3.5",
+    "TIME": "2024.10.03-14:14",
     "TYPE": "Anime",
 }
 
