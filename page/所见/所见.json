@@ -8,7 +8,7 @@
     },
     {
       "NAME": "败犬女主太多了！",
-      "RATE": "4",
+      "RATE": "4.0",
       "TIME": "2024.10.03-14:14",
       "TYPE": "Anime"
     },
@@ -20,7 +20,7 @@
     },
     {
       "NAME": "凭物语副音轨",
-      "RATE": "3",
+      "RATE": "3.0",
       "TIME": "2024.09.05-01:37",
       "TYPE": "Anime"
     },
@@ -38,7 +38,7 @@
     },
     {
       "NAME": "鬼灭之刃 柱训练篇",
-      "RATE": "2",
+      "RATE": "2.0",
       "TIME": "2024.08.22-19:30",
       "TYPE": "Anime"
     },
@@ -98,7 +98,7 @@
     },
     {
       "NAME": "恋物语",
-      "RATE": "4",
+      "RATE": "4.0",
       "TIME": "2024.06.28-15:58",
       "TYPE": "Anime"
     },
@@ -116,7 +116,7 @@
     },
     {
       "NAME": "倾物语",
-      "RATE": "4",
+      "RATE": "4.0",
       "TIME": "2024.06.26-17:00",
       "TYPE": "Anime"
     },
@@ -134,13 +134,13 @@
     },
     {
       "NAME": "迷宫饭",
-      "RATE": "3",
+      "RATE": "3.0",
       "TIME": "2024.06.24-16:52",
       "TYPE": "Anime"
     },
     {
       "NAME": "伪物语",
-      "RATE": "4",
+      "RATE": "4.0",
       "TIME": "2024.06.24-10:26",
       "TYPE": "Anime"
     },
@@ -170,7 +170,7 @@
     },
     {
       "NAME": "Solar Opposites Season 1",
-      "RATE": "4",
+      "RATE": "4.0",
       "TIME": "2024.05.31-00:43",
       "TYPE": "Anime"
     },
@@ -182,13 +182,13 @@
     },
     {
       "NAME": "Sonny Boy",
-      "RATE": "4.5",
+      "RATE": "4.0",
       "TIME": "2024.05.24-22:10",
       "TYPE": "Anime"
     },
     {
       "NAME": "僕だけがいない街",
-      "RATE": "4",
+      "RATE": "4.0",
       "TIME": "2024.05.21-23:44",
       "TYPE": "Anime"
     },
@@ -200,7 +200,7 @@
     },
     {
       "NAME": "けいおん！！",
-      "RATE": "4",
+      "RATE": "4.0",
       "TIME": "2024.05.02-13:30",
       "TYPE": "Anime"
     },
@@ -218,7 +218,7 @@
     },
     {
       "NAME": "薬屋のひとりごと",
-      "RATE": "4",
+      "RATE": "4.0",
       "TIME": "2024.03.24-15:57",
       "TYPE": "Anime"
     },
@@ -235,14 +235,14 @@
       "TYPE": "Anime"
     },
     {
-      "NAME": "となりの怪物くん",
-      "RATE": "4",
+      "NAME": "邻座的怪同学",
+      "RATE": "4.0",
       "TIME": "2024.02.02-19:36",
       "TYPE": "Anime"
     },
     {
       "NAME": "Pantheon Season 2",
-      "RATE": "3",
+      "RATE": "3.0",
       "TIME": "2024.01.26-17:47",
       "TYPE": "Anime"
     },
@@ -254,7 +254,7 @@
     },
     {
       "NAME": "Scavengers Reign",
-      "RATE": "4",
+      "RATE": "4.0",
       "TIME": "2024.01.13-00:24",
       "TYPE": "Anime"
     },
@@ -290,7 +290,7 @@
     },
     {
       "NAME": "生徒会の一存",
-      "RATE": "3",
+      "RATE": "3.0",
       "TIME": "2023.08.04-13:55",
       "TYPE": "Anime"
     }
@@ -306,7 +306,7 @@
   "Comic": [
     {
       "NAME": "东京喰种:re",
-      "RATE": "4.5",
+      "RATE": "4.0",
       "TIME": "2023.10.30-17:58",
       "TYPE": "Comic"
     },
@@ -318,7 +318,7 @@
     },
     {
       "NAME": "The Joker",
-      "RATE": "2",
+      "RATE": "2.0",
       "TIME": "2023.08.26-22:05",
       "TYPE": "Comic"
     }
@@ -326,7 +326,7 @@
   "Film": [
     {
       "NAME": "哈利·波特与火焰杯",
-      "RATE": "3",
+      "RATE": "3.0",
       "TIME": "2024.09.09-23:45",
       "TYPE": "Film"
     },
@@ -362,7 +362,7 @@
     },
     {
       "NAME": "鬼子来了",
-      "RATE": "3",
+      "RATE": "3.0",
       "TIME": "2024.03.14-21:23",
       "TYPE": "Film"
     },
@@ -374,7 +374,7 @@
     },
     {
       "NAME": "Catch Me If You Can",
-      "RATE": "3",
+      "RATE": "3.0",
       "TIME": "2024.02.24-20:46",
       "TYPE": "Film"
     },
@@ -386,7 +386,7 @@
     },
     {
       "NAME": "Lord of War",
-      "RATE": "3",
+      "RATE": "3.0",
       "TIME": "2024.02.08-23:10",
       "TYPE": "Film"
     },
@@ -398,37 +398,37 @@
     },
     {
       "NAME": "공작",
-      "RATE": "3",
+      "RATE": "3.0",
       "TIME": "2023.11.16-10:04",
       "TYPE": "Film"
     },
     {
       "NAME": "The Amazing Spider-Man 2",
-      "RATE": "3",
+      "RATE": "3.0",
       "TIME": "2023.11.13-18:49",
       "TYPE": "Film"
     },
     {
       "NAME": "The Amazing Spider-Man",
-      "RATE": "3",
+      "RATE": "3.0",
       "TIME": "2023.11.08-15:13",
       "TYPE": "Film"
     },
     {
       "NAME": "颠倒的帕特玛",
-      "RATE": "3",
+      "RATE": "3.0",
       "TIME": "2023.11.07-12:40",
       "TYPE": "Film"
     },
     {
       "NAME": "Spider-Man 3",
-      "RATE": "4",
+      "RATE": "4.0",
       "TIME": "2023.10.22-23:15",
       "TYPE": "Film"
     },
     {
       "NAME": "Spider-Man 2",
-      "RATE": "4",
+      "RATE": "4.0",
       "TIME": "2023.10.04-19:56",
       "TYPE": "Film"
     },
@@ -440,7 +440,7 @@
     },
     {
       "NAME": "Spider-Man",
-      "RATE": "4",
+      "RATE": "4.0",
       "TIME": "2023.08.31-22:47",
       "TYPE": "Film"
     },
@@ -452,19 +452,19 @@
     },
     {
       "NAME": "Joker",
-      "RATE": "3",
+      "RATE": "3.0",
       "TIME": "2023.08.27-22:35",
       "TYPE": "Film"
     },
     {
       "NAME": "The Dark Knight Rises",
-      "RATE": "4",
+      "RATE": "4.0",
       "TIME": "2023.08.21-23:44",
       "TYPE": "Film"
     },
     {
       "NAME": "Dunkirk",
-      "RATE": "3",
+      "RATE": "3.0",
       "TIME": "2023.08.14-21:47",
       "TYPE": "Film"
     },
@@ -482,13 +482,13 @@
     },
     {
       "NAME": "Batman Begins",
-      "RATE": "3",
+      "RATE": "3.0",
       "TIME": "2023.07.22-23:33",
       "TYPE": "Film"
     },
     {
       "NAME": "Butterfly Effect",
-      "RATE": "4",
+      "RATE": "4.0",
       "TIME": "2023.07.21-01:33",
       "TYPE": "Film"
     }
@@ -496,19 +496,19 @@
   "Game": [
     {
       "NAME": "The Crew 2",
-      "RATE": "4",
+      "RATE": "4.0",
       "TIME": "2024.10.07-20:10",
       "TYPE": "Game"
     },
     {
       "NAME": "Persona 5 Royal",
-      "RATE": "3",
+      "RATE": "3.0",
       "TIME": "2024.09.20-00:39",
       "TYPE": "Game"
     },
     {
       "NAME": "Underground Blossom",
-      "RATE": "3",
+      "RATE": "3.0",
       "TIME": "2024.03.21-13:15",
       "TYPE": "Game"
     },
@@ -526,7 +526,7 @@
     },
     {
       "NAME": "The Room",
-      "RATE": "3",
+      "RATE": "3.0",
       "TIME": "2023.10.17-20:41",
       "TYPE": "Game"
     }
@@ -534,7 +534,7 @@
   "Novel": [
     {
       "NAME": "青春豬頭少年不會夢到初戀美少女",
-      "RATE": "4",
+      "RATE": "4.0",
       "TIME": "2024.06.20-03:50",
       "TYPE": "Novel"
     },
@@ -546,49 +546,49 @@
     },
     {
       "NAME": "青春豬頭少年不會夢到嬌憐看家妹",
-      "RATE": "4",
+      "RATE": "4.0",
       "TIME": "2024.06.17-18:40",
       "TYPE": "Novel"
     },
     {
       "NAME": "青春豬頭少年不會夢到戀姊俏偶像",
-      "RATE": "4",
+      "RATE": "4.0",
       "TIME": "2024.06.15-00:28",
       "TYPE": "Novel"
     },
     {
       "NAME": "青春豬頭少年不會夢到理性小魔女",
-      "RATE": "4",
+      "RATE": "4.0",
       "TIME": "2024.06.11-02:28",
       "TYPE": "Novel"
     },
     {
       "NAME": "青春豬頭少年不會夢到小惡魔學妹",
-      "RATE": "4",
+      "RATE": "4.0",
       "TIME": "2024.06.05-00:10",
       "TYPE": "Novel"
     },
     {
       "NAME": "青春豬頭少年不會夢到兔女郎學姊",
-      "RATE": "4",
+      "RATE": "4.0",
       "TIME": "2024.06.02-03:40",
       "TYPE": "Novel"
     },
     {
       "NAME": "涼宮春日的嘆息",
-      "RATE": "3",
+      "RATE": "3.0",
       "TIME": "2024.05.22-12:15",
       "TYPE": "Novel"
     },
     {
       "NAME": "直言怪話 移山志",
-      "RATE": "3",
+      "RATE": "3.0",
       "TIME": "2024.03.02-21:17",
       "TYPE": "Novel"
     },
     {
       "NAME": "夏へのトンネル、さよならの出口",
-      "RATE": "3",
+      "RATE": "3.0",
       "TIME": "2023.12.27-12:20",
       "TYPE": "Novel"
     },
@@ -608,7 +608,7 @@
     },
     {
       "NAME": "Love, Death & Robots Season 2",
-      "RATE": "3",
+      "RATE": "3.0",
       "TIME": "2023.12.13-22:56",
       "TYPE": "Teleplay"
     },
@@ -632,7 +632,7 @@
     },
     {
       "NAME": "Chernobyl",
-      "RATE": "4",
+      "RATE": "4.0",
       "TIME": "2023.10.24-19:48",
       "TYPE": "Teleplay"
     }
