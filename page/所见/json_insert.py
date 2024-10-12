@@ -4,10 +4,10 @@ from datetime import datetime
 
 # 新条目
 new_entry = {
-    "NAME": "The Crew 2",
-    "RATE": "4",
-    "TIME": "2024.10.07-20:10",
-    "TYPE": "Game",
+    "NAME": "游戏三人娘",
+    "RATE": "3.5",
+    "TIME": "2024.10.12-00:45",
+    "TYPE": "Anime",
 }
 
 # 文件路径
