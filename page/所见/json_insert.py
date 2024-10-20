@@ -4,10 +4,10 @@ from datetime import datetime
 
 # 新条目
 new_entry = {
-    "NAME": "Looking For Cats In a Badly Drawn City",
-    "RATE": "3.5",
-    "TIME": "2024.10.19-21:32",
-    "TYPE": "Game",
+    "NAME": "物语系列 Off ＆ Monster Season",
+    "RATE": "4.5",
+    "TIME": "2024.10.21-01:02",
+    "TYPE": "Anime",
 }
 
 # 文件路径

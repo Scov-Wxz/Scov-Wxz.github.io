@@ -1,6 +1,12 @@
 {
   "Anime": [
     {
+      "NAME": "物语系列 Off ＆ Monster Season",
+      "RATE": "4.5",
+      "TIME": "2024.10.21-01:02",
+      "TYPE": "Anime"
+    },
+    {
       "NAME": "游戏三人娘",
       "RATE": "3.5",
       "TIME": "2024.10.12-00:45",
@@ -500,6 +506,12 @@
     }
   ],
   "Game": [
+    {
+      "NAME": "100 Asian Cats",
+      "RATE": "3.5",
+      "TIME": "2024.10.20-17:48",
+      "TYPE": "Game"
+    },
     {
       "NAME": "Looking For Cats In a Badly Drawn City",
       "RATE": "3.5",
